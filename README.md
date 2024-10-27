@@ -1,9 +1,8 @@
-### Introduction
+# Introduction
 
 We have chosen to develop a **Medical Information Assistant based on the Vidal** to address the growing need for reliable and up-to-date medical information. As a key reference in the healthcare field in France, the Vidal provides a rich and precise source of data on medications, their uses, potential side effects, as well as possible interactions between different treatments.
 
-
-
+The goal of this assistant is to support healthcare professionals and patients by providing reliable medical information, ensuring the safe and informed use of medications. Drawing on the wealth of data from Vidal, this assistant aims to become a trusted resource for anyone seeking guidance on medications.
 
 
 
