@@ -9,7 +9,7 @@ The goal of this assistant is to support healthcare professionals and patients b
 
 To assess the performance of our Vidal-based Medical Information Assistant, we have developed an evaluation method centered around a structured set of specific question-answer pairs. The goal is to test the ability of our AI to provide accurate and reliable medical information based on Vidal’s reference data.
 
-We have created a JSON file containing question-answer pairs that cover a wide range of categories for different medications.
+We have created a [JSON file](https://github.com/nlahary/vidal/blob/main/QA_evaluation.json) containing question-answer pairs that cover a wide range of categories for different medications.
 
 Once our AI is fully operational, we will submit these questions to it and compare its answers to those in our reference JSON file. We will analyze the results using criteria such as accuracy, precision, relevance, and consistency of the information provided. This method will allow us to identify the strengths of our assistant, as well as areas that require adjustments to enhance the quality of its responses.
 
