@@ -1,0 +1,68 @@
+{
+  "qa": [
+    {
+      "question": "Quelle est la posologie recommandée pour AFINITOR® ?",
+      "reponse": "La dose recommandée d'AFINITOR® est de 10 mg une fois par jour. Le traitement doit être poursuivi aussi longtemps qu'un bénéfice clinique est observé ou jusqu'à la survenue d'une toxicité inacceptable. En cas d'oubli, il ne faut pas prendre de dose supplémentaire mais simplement poursuivre avec la dose suivante à l'heure habituelle"
+    },
+    {
+      "question": "Quelles sont les contre-indications d'AFINITOR® ?",
+      "reponse": "AFINITOR® est contre-indiqué en cas d'hypersensibilité à l'évérolimus, aux autres dérivés de la rapamycine ou à l'un des excipients mentionnés dans la composition. De plus, il ne doit pas être utilisé chez les patients présentant une intolérance au galactose, un déficit en lactase de Lapp ou un syndrome de malabsorption du glucose et du galactose."
+    },
+    {
+      "question": "Comment AFINITOR® doit-il être administré ?",
+      "reponse": "AFINITOR® doit être pris par voie orale, une fois par jour à la même heure, avec ou sans aliments, de manière constante. Les comprimés doivent être avalés entiers avec un verre d'eau et ne doivent pas être mâchés ou écrasés."
+    },
+    {
+      "question": "Quels sont les excipients contenus dans AFINITOR® ?",
+      "reponse": "AFINITOR® contient plusieurs excipients, dont le butylhydroxytoluène (E321), le stéarate de magnésium, le lactose monohydraté, l'hypromellose, la crospovidone de type A, et le lactose anhydre. Notez qu'il contient un excipient à effet notoire : le lactose (74 mg pour un comprimé de 2,5 mg, 149 mg pour un comprimé de 5 mg, 297 mg pour un comprimé de 10 mg)."
+    },
+    {
+      "question": "Quelle est la forme et la présentation d'AFINITOR® ?",
+      "reponse": "AFINITOR® se présente sous forme de comprimés. Il existe en dosages de 2,5 mg, 5 mg et 10 mg : 2,5 mg : comprimé ovale, à bords biseautés, portant l'inscription « LCL » d'un côté et « NVR » de l'autre. La couleur est blanche à légèrement jaunâtre. 5 mg : comprimé ovale, à bords biseautés, portant l'inscription « 5 » d'un côté et « NVR » de l'autre. La couleur est blanche à légèrement jaunâtre. 10 mg : comprimé ovale, à bords biseautés, portant l'inscription « UHE » d'un côté et « NVR » de l'autre. La couleur est blanche à légèrement jaunâtre. Les comprimés sont disponibles en boîtes de 30, sous plaquettes thermoformées de 10."
+    },
+    {
+      "question": "Quelles sont les indications de DÉBRIDAT® ?",
+      "reponse": "DÉBRIDAT® est indiqué pour le traitement symptomatique des douleurs, des troubles du transit et de l'inconfort intestinal liés aux troubles fonctionnels intestinaux. La solution injectable est utilisée lorsque la voie orale n'est pas possible."
+    },
+    {
+      "question": "Que faire en cas de surdosage de DÉBRIDAT® ?",
+      "reponse": "En cas de surdosage, des troubles cardiaques (comme bradycardie ou tachycardie) et des troubles neurologiques (somnolence, convulsion, coma) peuvent survenir. Une surveillance en milieu spécialisé est recommandée avec un traitement symptomatique adapté."
+    },
+    {
+      "question": "Comment administrer les granulés pour suspension buvable ?",
+      "reponse": "Pour la forme en flacon, il faut reconstituer la suspension en ajoutant de l'eau jusqu'au repère sur le flacon, puis bien agiter. La suspension peut être administrée directement ou mélangée avec un liquide. Pour les sachets, dissoudre le contenu dans un verre d'eau avant de l'ingérer."
+    },
+    {
+      "question": "Quelle est l'indication principale de Halfan ?",
+      "reponse": "Halfan (halofantrine) est principalement indiqué pour le traitement des accès palustres simples causés par Plasmodium falciparum. Il ne doit pas être utilisé en prophylaxie contre le paludisme."
+    },
+    {
+      "question": "Comment doit-on administrer Halfan ?",
+      "reponse": "La posologie recommandée pour Halfan est en moyenne de 24 mg par kg de poids corporel, à répartir en trois prises espacées de six heures. Le traitement doit être administré en dehors des repas, en évitant les repas riches en graisses pendant 24 heures."
+    },
+    {
+      "question": "Quels sont les effets indésirables fréquents de Halfan ?",
+      "reponse": "Les effets indésirables très fréquents incluent des douleurs abdominales, des diarrhées, des nausées, ainsi qu'un allongement de l'intervalle QTc. Des éruptions cutanées et du prurit peuvent également survenir."
+    },
+    {
+      "question": "Quelles sont les contre-indications à l'utilisation de Halfan ?",
+      "reponse": "Halfan est contre-indiqué en cas d'allongement congénital ou acquis de l'intervalle QTc, d'antécédents de cardiopathie, de bradycardie, d'arythmie, d'hypersensibilité à l'halofantrine, et en association avec certains médicaments tels que le bocéprévir et les antidépresseurs citalopram et escitalopram."
+    },
+    {
+      "question": "Quelle est l'indication principale du SURBRONC ® TOUX SÈCHE ?",
+      "reponse": "Traitement de courte durée des toux sèches et des toux d'irritation chez l'adulte à partir de 15 ans."
+    },
+    {
+      "question": "Quel est le dosage recommandé pour un adulte prenant ce médicament ?",
+      "reponse": "Un sachet de 5 ml contient 15 mg de dextrométhorphane, avec une dose unitaire de 15 à 30 mg (1 à 2 sachets) et une dose quotidienne maximale de 120 mg."
+    },
+    {
+      "question": "Quelle est la durée maximale du traitement avec SURBRONC ® TOUX SÈCHE ?",
+      "reponse": "La durée du traitement doit être courte, limitée à 5 jours."
+    },
+    {
+      "question": "Quel est l'avantage majeur de Clorotekal par rapport à d'autres anesthésiques intrathécaux ?",
+      "reponse": "Clorotekal se distingue par sa rapidité d'action, avec un début d'anesthésie qui se manifeste en moyenne en moins de 10 minutes. Cela en fait un choix privilégié pour des interventions chirurgicales de courte durée, maximisant ainsi l'efficacité du traitement."
+    }
+  ]
+}
